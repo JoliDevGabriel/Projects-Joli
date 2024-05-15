@@ -1,0 +1,56 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+    
+}
+
+
+.formulario form {
+    /* max-width: 100%; */
+    background-color: #F5E8DA;
+    border-radius: 20px;
+    padding: 36px 130px;
+    box-shadow: 3px 3px 10px #ffc000;
+}
+
+.campo-texto {
+    margin: 24px 0;
+    max-width: 100%;
+}
+
+
+.formulario .campo-texto input{
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 350px;
+    /* max-width: 100%; */
+    border: none;
+    font-size: 18px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+
+}
+
+
+.lista-suspensa label{
+    display: block;;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.lista-suspensa select {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
