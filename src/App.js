@@ -29,7 +29,7 @@ function App() {
     corSegundaria: '#8ac8dc'
     },
     {
-    nome: 'Projeto 4',
+    nome: 'Projeto 5',
     corPrimaria: '#b61a20',
     corSegundaria: '#b61a20a3'
     }
